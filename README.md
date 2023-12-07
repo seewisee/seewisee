@@ -18,6 +18,12 @@
 ![Oracle](https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white)
 
+<br>
+<br>
+
+## ✨About me
+<a href="[링크걸_주소](https://ohsh.tistory.com/)"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=내링크"/></a>
+
 
 
 </div>
