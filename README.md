@@ -22,8 +22,7 @@
 <br>
 
 ## ✨About me
-<a href="[링크걸_주소](https://ohsh.tistory.com/)"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=내링크"/></a>
-
+<a href="(https://ohsh.tistory.com/)"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=(https://ohsh.tistory.com/)https://ohsh.tistory.com/"/></a>
 
 
 </div>
