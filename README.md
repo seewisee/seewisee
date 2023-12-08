@@ -22,7 +22,7 @@
 <br>
 
 ## ✨About me
-<a href="(https://ohsh.tistory.com/)"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=(https://ohsh.tistory.com/)https://ohsh.tistory.com/"/></a>
+<a href="https://ohsh.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=(https://ohsh.tistory.com/)https://ohsh.tistory.com/"/></a>
 
 
 </div>
