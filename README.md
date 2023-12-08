@@ -16,7 +16,7 @@
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ![Oracle](https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white)
+![Mybatis](https://img.shields.io/badge/mybatis-61DAFB?style=flat&logo=mybatis&logoColor=white)
 
 <br>
 <br>
