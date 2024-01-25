@@ -22,7 +22,6 @@
 <br>
 
 ## ✨About me
-<a href="https://ohsh.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=(https://ohsh.tistory.com/)https://ohsh.tistory.com/"/></a>
 <a href="https://www.notion.so/94ced4db79354c7eafc2020d8a5740e0?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=(https://www.notion.so/94ced4db79354c7eafc2020d8a5740e0?pvs=4)https://www.notion.so/94ced4db79354c7eafc2020d8a5740e0?pvs=4"/></a>
 
 
